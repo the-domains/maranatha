@@ -1,0 +1,14 @@
+layout_spectrum: 0.7228283402509987
+typography_spectrum: 0.7766525659244508
+color:
+  brandStrength: 0.05133229400962591
+  lightness: 0.7037816534284502
+  saturation: 0.1878546520601958
+  rhythmicContrast: 0.14628855977207422
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+name: maranatha
